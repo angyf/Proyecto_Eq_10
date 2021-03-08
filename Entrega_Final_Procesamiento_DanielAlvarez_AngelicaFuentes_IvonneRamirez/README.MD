@@ -1,15 +1,14 @@
-# Proyecto-equipo-10
+# Proyecto equipo 10
 
-## Presentación
+[Jupyter Notebook]()
+
+[Automatización de una API] ()
+
 [Link de la presentación]()
 
 [Vídeo de la presentación]()
 
-## Jupyter Notebook
-
-[Notebook]()
-
-## Archivos CSV
+## Bases
 
 [Base de datos]()
 
