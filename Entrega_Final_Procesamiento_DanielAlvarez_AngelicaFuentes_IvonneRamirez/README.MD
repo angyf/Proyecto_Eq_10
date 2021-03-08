@@ -6,9 +6,9 @@
 
 [Vídeo de la presentación]()
 
-Se hizo uso de otra API para realizar automatización de consultas y limpieza
+Se hizo uso de otra API para realizar automatización de consultas y limpieza (Postwork 6)
 
-[Automatización de una API]()
+[Automatización de API]()
 
 ## Archivo de datos
 
