@@ -2,7 +2,7 @@
 
 [Jupyter Notebook]()
 
-[Automatización de una API] ()
+[Automatización de una API]()
 
 [Link de la presentación]()
 
